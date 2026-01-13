@@ -1,7 +1,7 @@
 # Genetic diversity and population structure of bermudagrass (Cynodon spp.) revealed by genotyping-by-sequencing
 
-Lovepreet Singh
-Mississippi State University
+#Lovepreet Singh
+#Mississippi State University
 
 Purpose:
 
